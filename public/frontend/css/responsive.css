@@ -1,0 +1,396 @@
+/* Medium Layout: 1280px. */
+@media only screen and (max-width: 1200px) { 
+
+p.slider-text {
+	bottom: 50px;
+	right: 21px;
+}
+ .desktoplogo img {
+	width: 167px;
+} 
+.webdes img {
+	width: 100%;
+}
+
+/*protfolio css-----------------------*/
+
+/*protfolio css-----------------------*/
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+
+p.slider-text {
+	bottom: 27px;
+	right: 13px;
+}
+.webdes img {
+	width: 100%;
+}
+/*protfolio css-----------------------*/
+.b-item {
+	margin: 10px auto;
+}
+
+/*protfolio css-----------------------*/
+
+
+/*Service css-----------------------*/
+
+.service-sub-page-title {
+	margin-top: 64px;
+}
+.service-sub-page-title h1 {
+	top: 5px;
+	left: 15px;
+	font-size: 36px;
+}
+.service-sub-page-title h3 {
+	top: 52px;
+	left: 18px;
+	font-size: 17px;
+}
+.web-application {
+	padding-top: 40px;
+}
+.web-title h1 {
+	font-size: 35px;
+	margin: 0 0 8px;
+	line-height: 43px;
+}
+.webapp-item a h1 {
+	top: 17px;
+	left: 3%;
+}
+.webdesign-item a h1 {
+	right: 5%;
+}
+.psddesign-item a h1 {
+	position: absolute;
+	top: 16px;
+	right: 12%;
+}
+.webcmscus-item a h1 {
+	position: absolute;
+	bottom: 12px;
+	font-size: 40px;
+	left: 2%;
+}
+.web-item a h1 {
+	font-size: 35px;
+	line-height: 43px; 
+}
+.webecommerce-item a h1 {
+	left: 37%;
+}
+.footer-social-icon {
+	margin-top: 0;
+	text-align: left;
+	margin-left: -55px;
+}
+.right-arrow {
+    display:none;
+}
+
+}
+
+/* Mobile Layout: 767px. */
+@media only screen and (max-width: 767px) { 
+    .blog_post_image {
+    	height: 250px !important;
+    }
+    .blog_post_image_background img {
+    	height: 250px;
+    }
+    .blog_post_reply #email {
+	margin-left: 0;
+}
+.blog_post_image_background img {
+	height: 250px !important;
+}
+.blog_content {
+	padding-top: 15px !important;
+}
+.blog_post {
+	margin-bottom: 15px !important;
+}
+p.slider-text {
+	bottom: 18px;
+	right: 13px;
+}
+  .slidera-btn {
+	top: 6px;
+	right: 11px;
+}  
+.webdes img {
+	width: 100%;
+}
+/*protfolio css-----------------------*/
+.b-item {
+	margin: 10px auto;
+}
+.mobile-app-heading h1 {
+	font-size: 20px;
+}
+.mobile-app-heading span {
+	font-size: 22px;
+}
+/*protfolio css-----------------------*/
+  .footer-social-icon {
+	margin-top: 5px;
+	margin-left: -55px;
+}
+/*Service css-----------------------*/
+.col-lg-6.text-right {
+	text-align: left !important;
+}
+.service-sub-page-title {
+	margin-top: 64px;
+}
+.service-sub-page-title h1 {
+	top: 5px;
+	left: 15px;
+	font-size: 36px;
+}
+.service-sub-page-title h3 {
+	top: 52px;
+	left: 18px;
+	font-size: 16px;
+}
+.web-application {
+	padding-top: 20px;
+}
+.web-title h1 {
+	font-size: 35px;
+	margin: 0 0 8px;
+	line-height: 43px;
+}
+.webapp-item a h1 {
+	top: 8px;
+	left: 5%;
+}
+.web-item a h1 {
+	font-size: 35px;
+	line-height: 43px; 
+}
+.webdesign-item a h1 {
+	position: absolute;
+	top: 8px;
+	right: 4%;
+}
+.webcmscus-item a h1 {
+	left: 5%;
+}
+.footer-bottom {
+	text-align: left;
+}
+.right-arrow {
+    display:none;
+}
+.services-item {
+	margin: 10px !important;
+}
+
+
+
+
+
+
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 665px) { 
+.webdes img {
+	width: 100%;
+}
+.tab-hidd{
+    display: none;
+}
+.slidera-btn {
+	top: 6px;
+	right: 11px;
+}
+.carousel-indicators {
+	bottom: 0px;
+}
+
+.portfolio-modal .close-modal .lr {
+	height: 35px;
+	margin-left: 59px;
+	z-index: 1106;
+}
+.portfolio-modal .close-modal .lr .rl {
+	height: 35px;
+	z-index: 1106;
+}
+.portfolio-modal .close-modal {
+	position: absolute;
+	top: 0px;
+	right: 7px;
+	width: 75px;
+    height: 75px;
+	z-index: 1051;
+}
+.portfolio-modal .modal-content p.item-intro {
+	margin: 6px 0 10px;
+}
+.owl-carousel .owl-nav button.owl-prev {
+	left: -28px;
+	top: 37%;
+}
+.owl-carousel .owl-nav button.owl-next {
+	right: -28px;
+	top: 37%;
+}
+.carousel-indicators {
+	bottom: -25px;
+}
+/*protfolio css-----------------------*/
+.b-item {
+	margin: 10px auto;
+}
+.ux-service-title h1 {
+	margin-top: 0px;
+	text-align: center;
+	font-size: 20px;
+}
+/*protfolio css-----------------------*/
+}
+
+/* Wide Mobile Layout: 300px. */
+@media only screen and (min-width: 400px) and (max-width: 479px) { 
+
+   #filters li {
+	display: inline-block;
+	margin-bottom: 20px;
+	float: left;
+}
+.mobile-hidd{
+    display: none;
+}
+.carousel-indicators {
+	bottom: 0px;
+}
+
+.portfolio-modal .close-modal .lr {
+	height: 35px;
+	margin-left: 59px;
+	z-index: 1106;
+}
+.portfolio-modal .close-modal .lr .rl {
+	height: 35px;
+	z-index: 1106;
+}
+.portfolio-modal .close-modal {
+	position: absolute;
+	top: 0px;
+	right: 7px;
+	width: 75px;
+    height: 75px;
+	z-index: 1051;
+}
+.portfolio-modal .modal-content p.item-intro {
+	margin: 6px 0 10px;
+}
+.owl-carousel .owl-nav button.owl-prev {
+	left: -28px;
+	top: 37%;
+}
+.owl-carousel .owl-nav button.owl-next {
+	right: -28px;
+	top: 37%;
+}
+.carousel-indicators {
+	bottom: -25px;
+}
+/*protfolio css-----------------------*/
+.b-item {
+	margin: 10px auto;
+}
+.mobile-app-heading span {
+	font-size: 18px;
+}
+.ux-service-title h1 {
+	margin-top: 0px;
+	text-align: center;
+	font-size: 20px;
+	letter-spacing: 0px;
+}
+/*protfolio css-----------------------*/
+}
+
+@media only screen and (max-width: 399px){
+
+#filters li {
+	display: inline-block;
+	margin-bottom: 20px;
+	float: left;
+}
+.portfolio-modal .close-modal .lr {
+	height: 35px;
+	margin-left: 59px;
+	z-index: 1106;
+}
+.portfolio-modal .close-modal .lr .rl {
+	height: 35px;
+	z-index: 1106;
+}
+.portfolio-modal .close-modal {
+	position: absolute;
+	top: 0px;
+	right: 7px;
+	width: 75px;
+    height: 75px;
+	z-index: 1051;
+}
+.portfolio-modal .modal-content p.item-intro {
+	margin: 6px 0 10px;
+}
+.owl-carousel .owl-nav button.owl-prev {
+	left: -28px;
+	top: 37%;
+}
+.owl-carousel .owl-nav button.owl-next {
+	right: -28px;
+	top: 37%;
+}
+.slider-area .UACarousel {
+	min-height: auto;
+}
+.mobile-hidd{
+    display: none;
+}
+.carousel-indicators {
+	bottom: 0px;
+}
+
+.webdes img {
+	width: 100%;
+}
+.portfolio img {
+	max-height: 450px;
+}
+.carousel-indicators {
+	bottom: -25px;
+}
+
+/*protfolio css-----------------------*/
+.b-item {
+	margin: 10px auto;
+}
+.mobile-app-heading span {
+	font-size: 16px;
+}
+.ux-service-title h1 {
+	margin-top: 0px;
+	text-align: center;
+	font-size: 20px;
+	letter-spacing: 0px;
+}
+
+/*protfolio css-----------------------*/
+
+/*service css-----------------------*/
+
+/*service css-----------------------*/
+}
